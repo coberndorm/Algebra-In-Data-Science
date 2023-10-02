@@ -5,7 +5,7 @@ Elija un vocabulario técnico correspondiente a un dominio específico, por ejem
 Solucion:
 La solución proporcionada utiliza una técnica de búsqueda de vecinos más cercanos (KNN) en un espacio vectorial TF-IDF (Term Frequency-Inverse Document Frequency) para encontrar la palabra más similar dentro de un vocabulario técnico específico. Se entreno la KNN con  los 2 vecinos más cercanos. La elección de la métrica "cosine" (coseno) en KNN se debe a que es una medida comúnmente utilizada para calcular la similitud entre vectores en espacios vectoriales. En el contexto de procesamiento de texto, el uso de la similitud del coseno es eficaz para medir la similitud entre las palabras representadas como vectores TF-IDF. 
 
-- Ejemplo Palabras Autocompletadas:
+- Ejemplo Palabras Autocompletadas: 
 Especie: salmon
 Quisiste decir: salmo-salar o monodon-monoceros?
 
