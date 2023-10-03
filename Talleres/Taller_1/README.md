@@ -45,8 +45,13 @@ Foto inicial con la que se empezo
 
 ![Foto reconstruida](https://github.com/coberndorm/Algebra-In-Data-Science/blob/main/Talleres/Taller_1/Punto_3/foto_final.png?raw=true)
 
-# Problema 5
+## Problema 5
 Demuestre que las normas matriciales inducidas p or las normas vectoriales 1 y ∞, corresp onden a tomar el máximo de la suma de valores absolutos entre
 filas y columnas, respectivamente
 
-#
+## Problema 6
+### a
+Programe un algoritmo que dada una matriz aproxime su norma inducida por la norma vectorial de orden p.
+
+### b 
+Usando el algoritmo del ítem anterior estime la norma inducida de ordenes 1, 2, 3 y ∞ para la matríz de Hilbert de tamaño 10 × 10, definida por $H_{10} = [h_{ij}] = \frac{1}{i+j}$.
