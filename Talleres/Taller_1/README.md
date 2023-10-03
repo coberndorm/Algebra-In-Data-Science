@@ -24,6 +24,7 @@ Entonces tenemos que usar una distancia que entre más diferente sea un pixel de
 Grafique en el plano $\mathbb{R}^2$ la bola de radio r y centro en el origen respecto a la distancia de Minkowski de orden p, donde los parámetros r y p varían entre desde 0.1 a 2 y desde 1 a ∞.
 
 Link a la solucion en Desmos:
+
 [![Ejemplo_Solucion_L1](https://github.com/coberndorm/Algebra-In-Data-Science/blob/main/Talleres/Taller_1/Punto_3/image.png?raw=true)](https://www.desmos.com/calculator/htvsj2y3t7)
 
 
