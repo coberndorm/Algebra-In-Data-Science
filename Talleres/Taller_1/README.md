@@ -16,7 +16,9 @@
 
 **Resultado:**
 
-- Matriz de Confusión: ![Matriz de Confusión](https://github.com/coberndorm/Algebra-In-Data-Science/blob/main/Talleres/Taller_1/Punto_2/image.png?raw=true)
+- Matriz de Confusión: 
+
+![Matriz de Confusión](https://github.com/coberndorm/Algebra-In-Data-Science/blob/main/Talleres/Taller_1/Punto_2/image.png?raw=true)
 
 ## Problema 3
 ### a.
@@ -57,4 +59,4 @@
 **Descripción:** Programe un algoritmo que, dada una matriz, aproxime su norma inducida por la norma vectorial de orden \(p\).
 
 ### b.
-**Descripción:** Usando el algoritmo del ítem anterior, estime la norma inducida de órdenes 1, 2, 3 e ∞ para la matriz de Hilbert de tamaño 10 × 10, definida por \(H_{10} = [h_{ij}] = \frac{1}{i+j}\).
+**Descripción:** Usando el algoritmo del ítem anterior, estime la norma inducida de órdenes 1, 2, 3 e ∞ para la matriz de Hilbert de tamaño 10 × 10, definida por $\(H_{10} = [h_{ij}] = \frac{1}{i+j}\)$.
